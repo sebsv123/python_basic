@@ -1,0 +1,19 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Archivos de PyCharm
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
